@@ -1,0 +1,12 @@
+streamlit
+selenium
+bs4
+requests
+langchain-community
+langchain-groq
+langchain-core
+faiss-cpu
+huggingface-hub
+amazoncaptcha
+python-dotenv
+matplotlib

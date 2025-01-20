@@ -1,0 +1,12 @@
+os
+dotenv
+langchain_groq
+langchain_community
+langchain.prompts
+langchain.agents
+validators
+bs4
+requests
+huggingface-hub
+faiss-cpu
+streamlit

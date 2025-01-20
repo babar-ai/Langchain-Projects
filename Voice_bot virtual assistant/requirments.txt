@@ -1,0 +1,9 @@
+asyncio
+langchain-core
+langchain-groq
+dotenv
+requests
+shutil
+subprocess
+json
+deepgram-sdk

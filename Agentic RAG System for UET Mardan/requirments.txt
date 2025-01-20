@@ -1,0 +1,11 @@
+langchain-community>=0.2.11
+sentence-transformers
+faiss-gpu
+tiktoken
+bs4
+requests
+python-dotenv
+duckduckgo-search
+langchain_groq
+wikipedia
+deepgram-sdk
