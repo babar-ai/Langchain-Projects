@@ -1,4 +1,4 @@
-# Step 1: Load the PDF Document
+ # Step 1: Load the PDF Document
 
 from langchain_community.document_loaders import PyPDFLoader
 

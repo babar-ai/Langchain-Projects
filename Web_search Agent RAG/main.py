@@ -57,6 +57,8 @@ keywords = [
     "construction drawing PDFs",
     "room and floor architectural drawing",
     "architectural floor plan drawing PDFs",
+    "block drawing"
+    "room and floor construction architecture drawing PDF"
 ]
 
 print(keywords)
